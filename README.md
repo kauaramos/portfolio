@@ -1,10 +1,13 @@
-## Welcome to GitHub Pages
+# Nikito
 
-You can use the [editor on GitHub](https://github.com/kauaramos/portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Sobre Min
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Meu nome é Kaua Cristhian Ramos estou no curso de ciraçao de sites e marketing no senai gosto de animes jogos filmes e etc sou representante de vendas 
+
 
 ### Markdown
+
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
