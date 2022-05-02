@@ -2,20 +2,28 @@
 
 ## Sobre Min
 
-Meu nome é Kaua Cristhian Ramos estou no curso de ciraçao de sites e marketing no senai gosto de animes jogos filmes e etc sou representante de vendas 
+## Sobre Minz
+  `youtube` (
+
+Meu nome é Kaua Cristhian Ramos estou no curso de ciraçao de sites e marketing no senai gosto de animes jogos filmes e etc sou representante de vendas  para uma loja de roupas estou criando o site no intuito de divulgar nos vendemos ropas femeninas
 
 
-### Markdown
+### Meus cursos
+
+atualmente cusrso criaçao de sites e marketing no senai e estou no ensino medio
+
+# idiomas
+fala o basico de ingles
+
+falo o basico de espanhol
 
 
+## hobis
+*atualmente gosto de programar*
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+*asitir animes*
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
+e jogar games
 ### Header 3
 
 - Bulleted
