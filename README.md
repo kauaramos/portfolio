@@ -1,8 +1,8 @@
 # Nikito
 
-## Sobre Min
+## Sobre Min 
+![Image](https://scontent-gru2-2.cdninstagram.com/v/t51.2885-19/275731713_1744599509081174_2841557147019106428_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-gru2-2.cdninstagram.com&_nc_cat=102&_nc_ohc=1iUuqzeBxEgAX-G_MU6&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT_3e--G5EU-yQkabJE3-PHax3DKyHcQoUsFX8jUQo6_qA&oe=62793BE3&_nc_sid=7bff83)
 
-## Sobre Minz
 
 _Meu nome é Kaua Cristhian Ramos estou no curso de ciraçao de sites e marketing no senai gosto de animes jogos filmes e etc sou representante de vendas  para uma loja de roupas estou criando o site no intuito de divulgar nos vendemos ropas femeninas_
 
@@ -24,15 +24,6 @@ falo o basico de espanhol
 e jogar games
 ## links para contato
 [entre em contato](https://linktr.ee/kauaramos)
-and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kauaramos/portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
