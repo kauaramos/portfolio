@@ -3,14 +3,12 @@
 ## Sobre Min
 
 ## Sobre Minz
-  `youtube` (
 
-Meu nome é Kaua Cristhian Ramos estou no curso de ciraçao de sites e marketing no senai gosto de animes jogos filmes e etc sou representante de vendas  para uma loja de roupas estou criando o site no intuito de divulgar nos vendemos ropas femeninas
-
+_Meu nome é Kaua Cristhian Ramos estou no curso de ciraçao de sites e marketing no senai gosto de animes jogos filmes e etc sou representante de vendas  para uma loja de roupas estou criando o site no intuito de divulgar nos vendemos ropas femeninas_
 
 ### Meus cursos
 
-atualmente cusrso criaçao de sites e marketing no senai e estou no ensino medio
+*atualmente cusrso criaçao de sites e marketing no senai e estou no ensino medio*
 
 # idiomas
 fala o basico de ingles
@@ -24,17 +22,9 @@ falo o basico de espanhol
 *asitir animes*
 
 e jogar games
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+## links para contato
+[entre em contato](https://linktr.ee/kauaramos)
+and ![Image](src)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
