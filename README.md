@@ -23,7 +23,8 @@ falo o basico de espanhol
 
 e jogar games
 ## links para contato
-[entre em contato](https://linktr.ee/kauaramos)
+[`entre em contato`](https://linktr.ee/kauaramos)
 
 
 
+![Image]()
